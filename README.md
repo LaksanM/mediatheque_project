@@ -1,1 +1,1 @@
-Projet Architecture logicielle Médiateque
+Projet Architecture logicielle Mediatheque
